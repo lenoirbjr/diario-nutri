@@ -1,0 +1,4 @@
+# Backups locais do diário não devem ser publicados.
+nutri-backup*.json
+diario-nutri*.json
+.DS_Store
